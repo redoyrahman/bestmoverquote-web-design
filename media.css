@@ -1,0 +1,188 @@
+@media screen and (min-width: 1400px) {
+
+    .bg-white {
+        max-width: 1360px !important;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+
+    .bg-white {
+        width: 90%;
+    }
+
+    .block-img.block-m-right.mr-r-45 {
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .short-banner-text p {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .banner {
+        text-align: center
+    }
+
+    .banner br {
+        display: none;
+    }
+
+    .mvrForm {
+        float: unset;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .bestquotefooter .widget .f-right{
+        float: unset;
+    }
+    .banner.pt-75{
+        padding-top: 30px;
+    }
+    .request-quote{
+        padding-top: 0;
+        padding-bottom:30px;
+    }
+    .cta, .service-count {
+        float: unset !important;
+    }
+
+    .short-banner-text p {
+        font-size: 18px;
+    }
+
+    .cta span {
+        font-size: 12px;
+    }
+
+    .cta a {
+        font-size: 20px;
+    }
+
+    .bestquotefooter {
+        text-align: center;
+    }
+
+    .bestquotefooter .widget.pr-60 {
+        padding-right: 0;
+    }
+
+    .block.mt-180 {
+        margin-top: 30px;
+    }
+
+    .offer .block p br {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .block p br {
+        display: none;
+    }
+
+    .short-banner {
+        text-align: center;
+    }
+
+    .best-btn {
+        margin-top: 25px;
+        float: unset;
+    }
+
+    .box.pt-105 {
+        padding-top: 25px !important;
+    }
+
+    .section-title, .section-title.f-30 {
+        font-size: 25px !important;
+    }
+
+    .section-subtitle, .section-subtitle.f-25 {
+        font-size: 20px !important;
+    }
+
+    header.bestquoteland-header {
+        text-align: center;
+    }
+
+    .service-count p, .service-count i, .cta i, .cta a {
+        float: unset;
+        display: inline-block;
+        margin: 10px;
+    }
+
+    .promo-box {
+        display: inline-block;
+        max-width: 100%;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .promo-box .f-left {
+        float: unset;
+    }
+
+    .promo-box br {
+        display: none;
+    }
+
+    img.offer-bg {
+        margin-top: 0;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .banner h1{
+        font-size: 22px;
+    }
+    .offer.pt-45 {
+        padding-top: 25px;
+    }
+
+    .offer .block.pt-25 {
+        padding-top: 0;
+    }
+
+    .promo-box {
+        padding: 5px;
+    }
+
+    .bestquotefooter .footer-top h4 {
+        font-size: 20px;
+    }
+
+    /* .section-title, .section-title.f-30 {
+         font-size: 18px !important;
+     }*/
+    .section-subtitle, .section-subtitle.f-25 {
+        font-size: 14px !important;
+    }
+
+    .section-title {
+        padding-top: 25px;
+
+    }
+
+    .section-subtitle {
+        padding-bottom: 25px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+}
+
+@media screen and (max-width: 320px) {
+
+}
+
+@media (max-device-width: 42mm)
+and (min-device-width: 38mm) {
+
+}
